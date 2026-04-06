@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=650&size=32&duration=3000&pause=936&color=D4B461&multiline=true&width=1000&lines=I+turn+caffeine+%E2%98%95%2C+chaos+%F0%9F%98%B5%E2%80%8D%F0%9F%92%AB%2C+and+code+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+into+deployments+%F0%9F%9A%80)](https://git.io/typing-svg)
 ## 👨🏻‍💻 About me
 
-I'm a Software Engineer at [Lumiq](https://lumiq.ai/), with a B.Tech in Computer Science and Design from [IIIT Delhi](http://iiitd.ac.in). I thrive at the intersection of software engineering and AI, and I’m actively looking for challenging full-stack or AI-driven roles where I can build impactful products.
+I'm an ex-Software Engineer at [Lumiq](https://lumiq.ai/), with a B.Tech in Computer Science and Design from [IIIT Delhi](http://iiitd.ac.in). I thrive at the intersection of software engineering and AI, and I’m actively looking for challenging full-stack or AI-driven roles where I can build impactful products.
 - ⚙️ Proficient in MERN stack, Python, Java, and AWS services.
 - 🤖 Worked on projects leveraging large language models, FastAPI, NestJS, and AI-powered tools.
 - 🚀 Built and deployed scalable platforms—from CMS-integrated web apps to AI agents—delivering measurable business value.
